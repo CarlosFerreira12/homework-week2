@@ -17,7 +17,6 @@ puts "Date:    #{email.date}"
 puts "From:    #{email.from}"
 puts "Subject: #{email.subject}"
 ```
-
 should then output the following:
 
 ```ruby

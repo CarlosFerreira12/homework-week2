@@ -15,3 +15,4 @@ This homework is composed of 3 exercises:
 
 In order to get everything you need to complete the exercises, please follow
 this [setup](http://tutorials.jumpstartlab.com/topics/environment/environment.html) (skip the PostgreSQL part).
+

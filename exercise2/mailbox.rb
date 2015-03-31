@@ -24,7 +24,6 @@ class Mailbox
 
 end
 
-
 emails = [
     Email.new("Homework this week", { :date => "2014-12-01", :from => "Ferdous" }),
     Email.new("Keep on coding! :)", { :date => "2014-12-01", :from => "Dajana" }),

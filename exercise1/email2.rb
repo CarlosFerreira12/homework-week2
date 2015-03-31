@@ -7,14 +7,9 @@ class Email
     @date=info[:date]
     @from=info[:from]
   end
-
-
   def Read
     puts "O email com o seguinte assunto: #{@subject} foi enviado por #{@from} na data #{@date}"
   end
-
-
-
 end
 
 email_1 = Email.new("Keep on coding! :)", { :date => "2014-12-01", :from => "Ferdous" })

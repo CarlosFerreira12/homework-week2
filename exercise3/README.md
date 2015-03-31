@@ -39,7 +39,6 @@ Mailbox: Ruby Study Group
 | 2014-12-02 | Ariane  | Re: Homework this week |
 +------------+---------+------------------------+
 ```
-
 You are allowed to add as many methods to the classes `Email`, `Mailbox` and
 `MailboxTextFormatter` as you deem useful. In your final solution you are not
 allowed to change any of the code outside (after) the class definitions. For

@@ -29,6 +29,7 @@ class MailboxTextFormatter
   def initialize(mailbox)
     @mailbox= mailbox
   end
+  
 
   def formating
 
