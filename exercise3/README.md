@@ -20,6 +20,7 @@ emails = [
   Email.new("Re: Homework this week", { :date => "2014-12-02", :from => "Ariane" })
 ]
 mailbox = Mailbox.new("Ruby Study Group", emails)
+
 formatter = MailboxTextFormatter.new(mailbox)
 
 puts formatter.format
